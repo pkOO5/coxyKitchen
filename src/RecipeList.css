@@ -1,0 +1,26 @@
+.recipe-list {
+    background-color: #fff4e6;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin: 20px;
+    font-family: 'Cursive', sans-serif;
+    color: #444;
+}
+
+.recipe-list h2 {
+    color: #ff704d;
+}
+
+.recipe-list ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.recipe-list li {
+    margin: 10px 0;
+}
+
+.recipe-list h3 {
+    color: #ff9966;
+}

@@ -1,0 +1,9 @@
+.footer {
+    background-color: #ffcc99;
+    text-align: center;
+    padding: 10px;
+    font-family: 'Cursive', sans-serif;
+    color: #333;
+    border-top: 2px solid #ff9966;
+    margin-top: 20px;
+}
