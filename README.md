@@ -6,3 +6,5 @@ Welcome to My Cozy Kitchen, your personal culinary companion! This full-stack we
 •	Scalable Design: The application’s architecture allows for easy addition of new recipes and features, ensuring it can grow with the user’s needs.
 •	Cozy Kitchen Theme: The entire application is designed with a cozy kitchen theme, creating a warm and inviting experience for users.
 •	Smooth User Experience: The combination of React and Django ensures a fast, responsive, and reliable user experience.
+
+![Screenshot (668)](https://github.com/user-attachments/assets/b44c044f-ce4f-45ba-ae69-7c3220aa4673)
